@@ -29,7 +29,7 @@
         "@tanstack/react-query": "^5.24.1",
         "@types/node": "20.11.23",
         "@types/react": "18.2.61",
-        "@types/react-dom": "18.2.19",
+        "@types/react-dom": "18.2.21",
         "autoprefixer": "10.4.17",
         "next": "14.1.0",
         "next-usequerystate": "^1.17.0",
